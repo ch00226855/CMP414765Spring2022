@@ -1,5 +1,5 @@
 # CMP414/765: Artificial Intelligence
-# Spring2021
+# Spring2022
 
 This is the GitHub repository for course CMP 414/765: Artificial Intelligence taught at The City University of New York, Lehman College, in Spring 2022. Each week the instructor will upload one notebook that will be used in class.
 
